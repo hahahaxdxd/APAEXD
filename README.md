@@ -1,8 +1,8 @@
 # VOCÊ PODE INICIAR ESTE GRABBER POR CMD E POWERSHELL
 ![alt text](https://files.catbox.moe/frv4rp.PNG)
 
-# VERSÃO PYTHON Python 3.9.6 NECESSÁRIO
-# DAQUI -![DOWNLOAD PYTHON 3.9.6](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe)
+# VERSÃO PYTHON Python 3.9.6 NECESSÁRIO  -![DOWNLOAD PYTHON 3.9.6](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe)
+
 # pip install -r requirements.txt em cmd
 Todos os navegadores Password Grabber Stealer Token Grabber Tudo em um webhook stealer
 
