@@ -1,5 +1,5 @@
 # VOCÊ PODE INICIAR ESTE GRABBER POR CMD E POWERSHELL (AO NÃO SER O LUNA GRABBER DE SMUG)
-![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040370456382943302/log-photo2.png)
+![alt text](https://files.catbox.moe/frv4rp.PNG)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040369851065176154/log-photo.png)
 
 # VERSÃO PYTHON Python 3.9.6 NECESSÁRIO
